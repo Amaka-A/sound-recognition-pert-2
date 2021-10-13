@@ -1,0 +1,27 @@
+body {
+    font-family: cursive;
+    font-weight: bold;
+    background-color: #e2ebdf;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+  }
+#image_sound
+{
+  height: 350px;
+  width: 300px;
+}
+
+#button_start
+{
+  letter-spacing: 4px;
+  background-color: turquoise;
+}
